@@ -1,0 +1,1 @@
+# Latching-power-switch-digital-and-analog-sensor
